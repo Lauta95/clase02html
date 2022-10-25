@@ -1,0 +1,10 @@
+mas info (por si quiero leer) de tablas que son para mailing:
+
+https://lenguajehtml.com/html/semantica/etiquetas-html-de-tablas/
+
+https://www.youtube.com/watch?v=CnKq1CUhqsM
+
+----------------------------------
+
+al subir a github, cuando se ponen linkeos, los linkea de igual manera porque live server lo toma. Pero no está bien.
+Cuanbdo tengamos el archivo cargado en github o un servidor, no va a funcionar porque hay que prestar atención a las rutas.
